@@ -1,4 +1,4 @@
-### Thank you for visiting.
+### Hey there, I am Laura.  Thanks for visiting my GitHub.  I hope you find something useful here.
 
 - 🔭 I’m currently working on ... **Creating a test engine.**
 - 🌱 I’m currently learning ...  **How to create projects in MERN**
@@ -29,9 +29,10 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
-<br /><br /><br />
+<br />
+
 -----
-### My Crafty Side:
+### Crafting Goodness:
 <!--<img align="left" alt="Crafting Icon" width="50px" style="display:inline-block" src="https://p.kindpng.com/picc/s/773-7732632_crafting-icon-handmade-icon-vector-png-transparent-png.png" /><br />-->
 
 [<img align="left" alt="Railroad Tote Bag" width="60px" src="./img/crafts/railroad_tote_bag.jpg" />]("./img/crafts/railroad_tote_bag.jpg")<br /><br /><br />
