@@ -8,7 +8,7 @@
 - 🥅 2022 Goals: ... Learn more about Web Development, 
 - 😄 Pronouns: ... **She/Her**
 - ⚡ Fun fact: ... **I am a crafter; love to quilt, sew, play with paper (paper crafting), and upcycle (taking what's old and make it new again)**
-- <img align="left" alt="Crafting Icon" width="26px" src="https://p.kindpng.com/picc/s/773-7732632_crafting-icon-handmade-icon-vector-png-transparent-png.png" />Here are some of my crafts: ... [sewing](https://drive.google.com/drive/folders/1u5AETb1BHNTWl1L54RgTiHWqvKglYLUg?usp=sharing)
+- <img align="left" alt="Crafting Icon" width="26px" src="https://p.kindpng.com/picc/s/773-7732632_crafting-icon-handmade-icon-vector-png-transparent-png.png" />Here are some of my crafts: ... [sewing](https://drive.google.com/drive/folders/1CFKY_s0zl5s63cx9l1rWS9LNzpgD321w?usp=sharing)
 
 -----
 ### Connect with me:
