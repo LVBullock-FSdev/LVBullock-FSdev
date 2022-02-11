@@ -5,15 +5,11 @@
 - 👯 I’m looking to collaborate on ... **Pretty much anything Web/Software Development-related.  I need the knowledge.**
 - 🤔 I’m looking for help with ... **File and image uploads**
 - 💬 Ask me about ... **Crafting**
-- 🥅 2022 Goals: ... **Get a job in Web Development. Improve my GitHub and LinkedIn profiles.  Study more of Java, Python, MERN, and Linux**
+- 🥅 2022 Goals: ... **Get a job in Web Development. Improve my GitHub and LinkedIn profiles.  Study more of Java, Python, MERN, and Linux, then contribute more code to GitHub**
 - 🥅 Future Goals: ... ***RedHat Certification***
 - 😄 Pronouns: ... **She/Her**
 - ⚡ Fun fact: ... **I am a crafter; love to quilt, sew, play with paper (paper crafting), and upcycle (taking what's old and make it new again)**
-- Here are some of my crafts:<br />
-[<img align="left" alt="Railroad Tote Bag" width="60px" src="./img/crafts/railroad_tote_bag.jpg" />]("./img/crafts/railroad_tote_bag.jpg")<br /><br /><br />
 
-
-<!--- <img align="left" alt="Crafting Icon" width="15px" style="margin-top:10px;" src="https://p.kindpng.com/picc/s/773-7732632_crafting-icon-handmade-icon-vector-png-transparent-png.png" />-->
 -----
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />](https://www.linkedin.com/in/laura-v-bullock/)
@@ -32,5 +28,15 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+
+<br /><br /><br />
+-----
+### My Crafty Side:
+<!--<img align="left" alt="Crafting Icon" width="50px" style="display:inline-block" src="https://p.kindpng.com/picc/s/773-7732632_crafting-icon-handmade-icon-vector-png-transparent-png.png" /><br />-->
+
+[<img align="left" alt="Railroad Tote Bag" width="60px" src="./img/crafts/railroad_tote_bag.jpg" />]("./img/crafts/railroad_tote_bag.jpg")<br /><br /><br />
+
+
+
 
 
