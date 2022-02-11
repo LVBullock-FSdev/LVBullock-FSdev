@@ -2,10 +2,11 @@
 
 - 🔭 I’m currently working on ... **Creating a test engine.**
 - 🌱 I’m currently learning ...  **How to create projects in MERN**
-- 👯 I’m looking to collaborate on ... **Pretty much anything IT-related.  I need the knowledge.**
+- 👯 I’m looking to collaborate on ... **Pretty much anything Web/Software Development-related.  I need the knowledge.**
 - 🤔 I’m looking for help with ... **File and image uploads**
 - 💬 Ask me about ... **Crafting**
-- 🥅 2022 Goals: ... Learn more about Web Development, 
+- 🥅 2022 Goals: ... **Study more of Java, Python, MERN, and Linux. GET A JOB!**
+- 🥅 Future Goals: ... ***RedHat Certification***
 - 😄 Pronouns: ... **She/Her**
 - ⚡ Fun fact: ... **I am a crafter; love to quilt, sew, play with paper (paper crafting), and upcycle (taking what's old and make it new again)**
 - Here are some of my crafts:<br />
