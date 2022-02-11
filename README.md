@@ -5,9 +5,10 @@
 - 👯 I’m looking to collaborate on ... **Pretty much anything IT-related.  I need the knowledge.**
 - 🤔 I’m looking for help with ... **File and image uploads**
 - 💬 Ask me about ... **Crafting**
-- 📫 How to reach me: ... **[LinkedIn](https://www.linkedin.com/in/laura-v-bullock/)**
+- 🥅 2022 Goals: ... Learn more about Web Development, 
 - 😄 Pronouns: ... **She/Her**
 - ⚡ Fun fact: ... **I am a crafter; love to quilt, sew, play with paper (paper crafting), and upcycle (taking what's old and make it new again)**
+- <img align="left" alt="Crafting Icon" width="26px" src="https://p.kindpng.com/picc/s/773-7732632_crafting-icon-handmade-icon-vector-png-transparent-png.png" />Here are some of my crafts: ... [sewing](https://drive.google.com/drive/folders/1u5AETb1BHNTWl1L54RgTiHWqvKglYLUg?usp=sharing)
 
 -----
 ### Connect with me:
