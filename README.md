@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... **Pretty much anything Web/Software Development-related.  I need the knowledge.**
 - 🤔 I’m looking for help with ... **File and image uploads**
 - 💬 Ask me about ... **Crafting**
-- 🥅 2022 Goals: ... **Study more of Java, Python, MERN, and Linux. GET A JOB!**
+- 🥅 2022 Goals: ... **Get a job in Web Development. Study more of Java, Python, MERN, and Linux**
 - 🥅 Future Goals: ... ***RedHat Certification***
 - 😄 Pronouns: ... **She/Her**
 - ⚡ Fun fact: ... **I am a crafter; love to quilt, sew, play with paper (paper crafting), and upcycle (taking what's old and make it new again)**
