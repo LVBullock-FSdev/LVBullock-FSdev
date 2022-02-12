@@ -49,9 +49,11 @@
 ### Crafting Goodness:
 <!--<img align="left" alt="Crafting Icon" width="50px" style="display:inline-block" src="https://p.kindpng.com/picc/s/773-7732632_crafting-icon-handmade-icon-vector-png-transparent-png.png" /><br />-->
 
-[<img align="left" alt="Railroad Tote Bag" width="60px" src="./img/crafts/railroad_tote_bag.jpg" />]("./img/crafts/railroad_tote_bag.jpg")<br /><br /><br />
+[<img align="left" alt="Railroad Tote Bag" width="60px" src="./img/crafts/railroad_tote_bag.jpg" />]("./img/crafts/railroad_tote_bag.jpg")<br /><br /><br /><br /><br />
 
+-----
+#### Profile Visits 
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id={$Laura_V._Bullock}.${LVBullock-FSdev}&left_color=purple&right_color=green)
 
 
