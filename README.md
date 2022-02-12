@@ -54,6 +54,11 @@
 [<img align="left" alt="Railroad Tote Bag" width="60px" src="./img/crafts/railroad_tote_bag.jpg" />]("./img/crafts/railroad_tote_bag.jpg")<br /><br /><br /><br /><br />
 
 -----
+
+#### GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LVBullock-FSdev&show_icons=true&theme=synthwave)
+
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id={$Laura_V._Bullock}.${LVBullock-FSdev}&left_color=purple&right_color=green)
