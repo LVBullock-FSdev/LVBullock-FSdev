@@ -61,6 +61,6 @@
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id={$Laura_V._Bullock}.${LVBullock-FSdev}&left_color=purple&right_color=green)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=${Laura_V._Bullock}.${LVBullock-FSdev}&left_color=purple&right_color=green)
 
 
