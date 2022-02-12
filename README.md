@@ -12,11 +12,17 @@
 
 -----
 ### Connect with me:
-[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />](https://www.linkedin.com/in/laura-v-bullock/)
 
-<br /><br/>
+[![LinkedIn Badge](https://img.shields.io/badge/-Laura_Bullock-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-v-bullock/) 
 
-### Languages and Tools:
+<br/>
+
+### Technologies: 
+<br/>
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+
+
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -37,6 +43,9 @@
 <br /><br />
 
 -----
+
+### Contact Me:
+: email: laura.v.bullock@gmail.com
 ### Crafting Goodness:
 <!--<img align="left" alt="Crafting Icon" width="50px" style="display:inline-block" src="https://p.kindpng.com/picc/s/773-7732632_crafting-icon-handmade-icon-vector-png-transparent-png.png" /><br />-->
 
