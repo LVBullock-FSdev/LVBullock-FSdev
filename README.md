@@ -18,20 +18,8 @@
 ### Technologies: 
 <br/>
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) [![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1572B6)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![MySQL Badge](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)](#) [![Express.JS Badge](https://img.shields.io/badge/-Express.js-404D59?style=for-the-badge&labelColor=black&logo=express&logoColor=Express.js-404D59)](#)[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&labelColor=black&logo=java&logoColor=Java-ED8B00)](#) [![Spring Badge](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&labelColor=black&logo=spring&logoColor=Spring-6DB33F)](#) [![Python Badge](https://img.shields.io/badge/-Python-14354C?style=for-the-badge&labelColor=black&logo=python&logoColor=Python-14354C)](#) [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=Django-092E20)](#) [![GitHub Badge](https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#) <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mongodb.svg" />
-<img align="left" alt="ExpressJs" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/express.svg" style="padding-top:-10px;"/>
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Eclipse" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/eclipseide.svg" />
-<img align="left" alt="VMWware" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/vmware.svg" style="padding-bottom:-30px;"/>
-<img align="left" alt="VirtualBox" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/virtualbox.svg" />
 
 
 
