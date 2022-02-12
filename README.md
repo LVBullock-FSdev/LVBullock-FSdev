@@ -15,8 +15,6 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Laura_Bullock-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-v-bullock/) 
 
-<br/>
-
 ### Technologies: 
 <br/>
 
@@ -61,6 +59,6 @@
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=${Laura_V._Bullock}.${LVBullock-FSdev}&left_color=purple&right_color=green)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=${Laura}.${LVBullock-FSdev}&left_color=purple&right_color=green)
 
 
