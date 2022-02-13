@@ -2,15 +2,15 @@
 
 ### Hey there, I am Laura.  Thanks for visiting my GitHub.  I hope you find something useful here.
 
-&#8227;	 🖥️ I’m currently working on ... **Creating a test engine**
-&#8227;	 📖 I’m currently learning ...  **How to create projects in MERN**<br>
-&#8227;	 🤝 I’m looking to collaborate on ... ****Pretty much anything Web/Software Development-related.  I need the knowledge.**<br>
-&#8227;	 🥺 I’m looking for help with ... ****File and image uploads**<br>
-&#8227;	 💬 Ask me about ... ****Crafting**<br>
-&#8227;	 📅 2022 Goals: ... **Get a job in Web Development. Improve my GitHub and LinkedIn profiles.  Study more of Java, Python, MERN, and Linux, then contribute more code to GitHub**<br>
-&#8227;	 🗓️ Future Goals: ... ***RedHat Certification***
-&#8227;	 😄 Pronouns: ... ♀️ **She/Her**<br>
-&#8227;	 🤹‍♀️ Fun fact: ... **I am a crafter; love to quilt, sew, play with paper (paper crafting), and upcycle (taking what's old and make it new again)**
+- 🖥️ I’m currently working on ... **Creating a test engine**
+- 📖 I’m currently learning ...  **How to create projects in MERN**
+- 🤝 I’m looking to collaborate on ... **Pretty much anything Web/Software Development-related.  I need the knowledge.**
+- 🥺 I’m looking for help with ... **File and image uploads**
+- 💬 Ask me about ... **Crafting**
+- 📅 2022 Goals: ... **Get a job in Web Development. Improve my GitHub and LinkedIn profiles.  Study more of Java, Python, MERN, and Linux, then contribute more code to GitHub**
+- 🗓️ Future Goals: ... ***RedHat Certification***
+- 😄 Pronouns: ... ♀️ **She/Her**
+- 🤹‍♀️ Fun fact: ... **I am a crafter; love to quilt, sew, play with paper (paper crafting), and upcycle (taking what's old and make it new again)**
 
 -----
 ### Connect with me:
