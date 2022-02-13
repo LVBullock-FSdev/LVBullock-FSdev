@@ -1,4 +1,4 @@
-<img width="100%" min-height="200px" object-fit="cover" src="./img/coding_background.jpg" /><br /><br /><br />
+<img width="100%" height="200px" object-fit="cover" src="./img/coding_background.jpg" /><br /><br /><br />
 <br />
 
 ### Hey there, I am Laura.  Thanks for visiting my GitHub.  I hope you find something useful here.
