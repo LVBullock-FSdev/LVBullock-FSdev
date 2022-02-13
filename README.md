@@ -1,9 +1,9 @@
 
 
 ### Hey there, I am Laura.  Thanks for visiting my GitHub.  I hope you find something useful here.
+<br>
 
 <img  align="left" height="200px" width="250px"  src="./img/coding_background.jpg" />
-
 
 <p>
 - 🖥️ I’m currently working on ... <b>Creating a test engine</b><br>
