@@ -1,4 +1,4 @@
-<img align="left" alt="Coding Screen" width="100%" src="./img/coding_photo.png" /><br /><br /><br />
+<span><img height="250px" width="100%" src="./img/coding_photo.png" /><br /><br /><br />
 <br />
 
 ### Hey there, I am Laura.  Thanks for visiting my GitHub.  I hope you find something useful here.
