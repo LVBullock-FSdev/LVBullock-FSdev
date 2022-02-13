@@ -1,8 +1,11 @@
-<img width="100%" height="200px" object-fit="cover" src="./img/coding_background.jpg" /><br /><br /><br />
-<br />
+
 
 ### Hey there, I am Laura.  Thanks for visiting my GitHub.  I hope you find something useful here.
 
+<img  align="left" height="200px" width="250px"  src="./img/coding_background.jpg" />
+
+
+<p>
 - 🖥️ I’m currently working on ... **Creating a test engine.**
 - 📖 I’m currently learning ...  **How to create projects in MERN**
 - 🤝 I’m looking to collaborate on ... **Pretty much anything Web/Software Development-related.  I need the knowledge.**
@@ -11,7 +14,7 @@
 - 📅 2022 Goals: ... **Get a job in Web Development. Improve my GitHub and LinkedIn profiles.  Study more of Java, Python, MERN, and Linux, then contribute more code to GitHub**
 - 🗓️ Future Goals: ... ***RedHat Certification***
 - 😄 Pronouns: ... ♀️ **She/Her**
-- 🤹‍♀️ Fun fact: ... **I am a crafter; love to quilt, sew, play with paper (paper crafting), and upcycle (taking what's old and make it new again)**
+- 🤹‍♀️ Fun fact: ... **I am a crafter; love to quilt, sew, play with paper (paper crafting), and upcycle (taking what's old and make it new again)**</p>
 
 -----
 ### Connect with me:
