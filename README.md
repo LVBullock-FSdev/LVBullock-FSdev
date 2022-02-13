@@ -2,7 +2,7 @@
 
 ### Hey there, I am Laura.  Thanks for visiting my GitHub.  I hope you find something useful here.
 
-<img  align="left" height="300px" width="250px"  src="./img/coding_background.jpg" />
+<img  align="left" height="275px" width="250px"  src="./img/coding_background.jpg" />
 
 <p>
 &#8227;	 🖥️ I’m currently working on ... <b>Creating a test engine</b><br>
@@ -13,7 +13,7 @@
 &#8227;	 📅 2022 Goals: ... <b>Get a job in Web Development. Improve my GitHub and LinkedIn profiles.  Study more of Java, Python, MERN, and Linux, then contribute more code to GitHub</b><br>
 &#8227;	 🗓️ Future Goals: ... <b><i>RedHat Certification</i></b><br>
 &#8227;	 😄 Pronouns: ... ♀️ <b>She/Her</b><br>
-&#8227;	 🤹‍♀️ Fun fact: ... <b>I am a crafter; love to quilt, sew, play with paper (paper crafting), and upcycle (taking what's old and make it new again)</p>
+&#8227;	 🤹‍♀️ Fun fact: ... <b>I am a crafter; love to quilt, sew, play with paper (paper crafting), and upcycle (taking what's old and make it new again)</p><br>
 
 -----
 ### Connect with me:
