@@ -1,4 +1,4 @@
-<span><img height="250px" width="100%" src="./img/coding_photo.png" /><br /><br /><br />
+<span><img display="auto-fit" src="./img/coding_photo.png" /><br /><br /><br />
 <br />
 
 ### Hey there, I am Laura.  Thanks for visiting my GitHub.  I hope you find something useful here.
