@@ -6,15 +6,15 @@
 
 
 <p>
-- 🖥️ I’m currently working on ... **Creating a test engine.**
-- 📖 I’m currently learning ...  **How to create projects in MERN**
-- 🤝 I’m looking to collaborate on ... **Pretty much anything Web/Software Development-related.  I need the knowledge.**
-- 🥺 I’m looking for help with ... **File and image uploads**
-- 💬 Ask me about ... **Crafting**
-- 📅 2022 Goals: ... **Get a job in Web Development. Improve my GitHub and LinkedIn profiles.  Study more of Java, Python, MERN, and Linux, then contribute more code to GitHub**
-- 🗓️ Future Goals: ... ***RedHat Certification***
-- 😄 Pronouns: ... ♀️ **She/Her**
-- 🤹‍♀️ Fun fact: ... **I am a crafter; love to quilt, sew, play with paper (paper crafting), and upcycle (taking what's old and make it new again)**</p>
+- 🖥️ I’m currently working on ... <b>Creating a test engine</b><br>
+- 📖 I’m currently learning ...  <b>How to create projects in MERN</b><br>
+- 🤝 I’m looking to collaborate on ... <b>Pretty much anything Web/Software Development-related.  I need the knowledge.</b><br>
+- 🥺 I’m looking for help with ... <b>File and image uploads</b><br>
+- 💬 Ask me about ... <b>Crafting</b><br>
+- 📅 2022 Goals: ... <b>Get a job in Web Development. Improve my GitHub and LinkedIn profiles.  Study more of Java, Python, MERN, and Linux, then contribute more code to GitHub</b><br>
+- 🗓️ Future Goals: ... <b><i>RedHat Certification</i></b><br>
+- 😄 Pronouns: ... ♀️ <b>She/Her</b><br>
+- 🤹‍♀️ Fun fact: ... <b>I am a crafter; love to quilt, sew, play with paper (paper crafting), and upcycle (taking what's old and make it new again)</p>
 
 -----
 ### Connect with me:
