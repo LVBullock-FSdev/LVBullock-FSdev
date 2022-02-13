@@ -13,7 +13,7 @@
 &#8227;	 📅 2022 Goals: ... <b>Get a job in Web Development. Improve my GitHub and LinkedIn profiles.  Study more of Java, Python, MERN, and Linux, then contribute more code to GitHub</b><br>
 &#8227;	 🗓️ Future Goals: ... <b><i>RedHat Certification</i></b><br>
 &#8227;	 😄 Pronouns: ... ♀️ <b>She/Her</b><br>
-&#8227;	 🤹‍♀️ Fun fact: ... <b>I am a crafter; love to quilt, sew, play with paper (paper crafting), and upcycle (taking what's old and make it new again)</p><br>
+&#8227;	 🤹‍♀️ Fun fact: ... <b>I am a crafter; love to quilt, sew, play with paper (paper crafting), and upcycle (taking what's old and make it new again)</p>
 
 -----
 ### Connect with me:
