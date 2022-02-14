@@ -7,12 +7,12 @@
 ***I am a recent graduate of Coding Dojo's Full Stack Web Development program consisting of Web Fundamentals (HTML, CSS, Javascript), Python (Django), Java (SpringBoot Framework), and MERN(MongoDB, Express, React, NodeJS, JSP).  Additionally, I have worked with OracleDB, SQL and MySQL.  To date, I have mostly enjoyed creating with MERN, but looking to gain more experience in Java and Python.  Other technologies that I enjoy working with include the Linux platform using RedHat and Centos distributions.***
 <br />
 
-- 🖥️ I’m currently working on ... **Creating a test engine**
+- 🖥️ I’m currently working on ... **Creating a test engine and improving my GitHub and LinkedIn profiles.**
 - 📖 I’m currently learning ...  **How to create projects in MERN**
 - 🤝 I’m looking to collaborate on ... **Pretty much anything Web/Software Development-related.  I need the knowledge.**
 - 🥺 I’m looking for help with ... **File and image uploads**
 - 💬 Ask me about ... **Crafting**
-- 📅 2022 Goals: ... **Get a job in Web Development. Improve my GitHub and LinkedIn profiles.  Study more of Java, Python, MERN, and Linux, then contribute more code to GitHub**
+- 📅 2022 Goals: ... **Get a job in Web Development. Study more of Java, Python, MERN, and Linux, then contribute more code to GitHub**
 - 🗓️ Future Goals: ... ***RedHat Certification***
 - 😄 Pronouns: ... ♀️ **She/Her**
 - 🤹‍♀️ Fun fact: ... **I am a crafter; love to quilt, sew, play with paper (paper crafting), and upcycle (taking what's old and make it new again)**
