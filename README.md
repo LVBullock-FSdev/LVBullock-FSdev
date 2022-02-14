@@ -1,6 +1,6 @@
 
 
-# Hey there 👋🏾, I am Laura.  
+# Hey there! 👋🏽, I am Laura.  
 ### Welcome to my GitHub.  I hope you find something useful here.
 
 <!-- I want to add a banner that stretches across the width of the page ??? <img align="left" height="auto" width="150" src="./img/coding_background.jpg" alt="computer screen with code">  -->
@@ -45,8 +45,8 @@
 
 -----
 
-<!-- #### Profile Visits 
+#### Profile Visits 
 
 ![visitor badges](https://visitor-badge.glitch.me/badge?page_id=page.id=lvbullock-fsdev.visitor-badge&left_color=purple&right_color=green)
- -->
+
 
