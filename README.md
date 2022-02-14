@@ -43,8 +43,8 @@
 
 ![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LVBullock-FSdev&show_icons=true&theme=synthwave)
 
-<!--#### Profile Visits 
+#### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id=${laura_v._bullock}.${lvbullock-fsdev}&left_color=purple&right_color=green)-->
+![visitor badges](https://visitor-badge.glitch.me/badge?page_id=page.id=lvbullock-fsdev.visitor-badge&left_color=purple&right_color=green)
 
 
