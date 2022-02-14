@@ -1,6 +1,8 @@
 
 
-### Hey there, I am Laura.  Thanks for visiting my GitHub.  I hope you find something useful here.
+### Hey there 👋🏾, I am Laura.  Welcome to my GitHub.  I hope you find something useful here.
+
+<img src="./img/coding_photo.png" alt="computer screen with code"> I am a recent graduate of Coding Dojo's Full Stack Web Development.  The program consisted of Web Fundamentals (HTML, CSS, Javascript and included MySQL); Python using the Django environment and MySQL database); Java - SpringBoot Framework; and MERN-MongoDB, Express, React, NodeJS).  Thus far, I have enjoyed creating with MERN, but looking to become more experience in Java and Python.  Other technologies that I enjoy working with include the Linux platform using RedHat, Centos, and Ubuntu distributions.
 
 - 🖥️ I’m currently working on ... **Creating a test engine**
 - 📖 I’m currently learning ...  **How to create projects in MERN**
@@ -36,7 +38,7 @@
 
 #### GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LVBullock-FSdev&show_icons=true&theme=synthwave)
+![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LVBullock-FSdev&show_icons=true&theme=synthwave)
 
 <!--#### Profile Visits 
 
