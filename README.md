@@ -45,8 +45,8 @@
 
 -----
 
-#### Profile Visits 
+<!-- #### Profile Visits 
 
 ![visitor badges](https://visitor-badge.glitch.me/badge?page_id=page.id=lvbullock-fsdev.visitor-badge&left_color=purple&right_color=green)
-
+ -->
 
