@@ -3,8 +3,8 @@
 # Hey there 👋🏾, I am Laura.  
 ### Welcome to my GitHub.  I hope you find something useful here.
 
-<img align="left" height="200" width="150" src="./img/coding_background.jpg" alt="computer screen with code"> I am a recent graduate of Coding Dojo's Full Stack Web Development program consisting of Web Fundamentals (HTML, CSS, Javascript), Python (Django), Java (SpringBoot Framework), and MERN(MongoDB, Express, React, NodeJS, JSP).  Additionally, I have worked with OracleDB, SQL and MySQL.  To date, I have mostly enjoyed creating with MERN, but looking to gain more experience in Java and Python.  Other technologies that I enjoy working with include the Linux platform using RedHat and Centos distributions.
-<br />
+<img align="left" height="auto" width="150" src="./img/coding_background.jpg" alt="computer screen with code"> I am a recent graduate of Coding Dojo's Full Stack Web Development program consisting of Web Fundamentals (HTML, CSS, Javascript), Python (Django), Java (SpringBoot Framework), and MERN(MongoDB, Express, React, NodeJS, JSP).  Additionally, I have worked with OracleDB, SQL and MySQL.  To date, I have mostly enjoyed creating with MERN, but looking to gain more experience in Java and Python.  Other technologies that I enjoy working with include the Linux platform using RedHat and Centos distributions.
+<br /><br /><br />
 
 - 🖥️ I’m currently working on ... **Creating a test engine**
 - 📖 I’m currently learning ...  **How to create projects in MERN**
