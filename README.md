@@ -1,6 +1,6 @@
 
 
-# Hey there! 👋🏽, I am Laura.  
+# Hey there! 👋🏽  
 ### Welcome to my GitHub.  I hope you find something useful here.
 
 <!-- I want to add a banner that stretches across the width of the page ??? <img align="left" height="auto" width="150" src="./img/coding_background.jpg" alt="computer screen with code">  -->
